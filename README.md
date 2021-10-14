@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **SQL & NoSQL**
+- 🌱 I’m currently learning **Backend (NodeJS)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
