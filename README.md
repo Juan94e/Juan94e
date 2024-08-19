@@ -7,13 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Backend (NodeJS)**
+- I’m currently working at Implemental Systems as Software Developer
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://juan-espinosa.firebaseapp.com/)**
-
-- ⚡ Fun fact **I play video games very often.**
 
 ## 🚀 Languages and Tools:
 
